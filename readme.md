@@ -1,4 +1,6 @@
-# 🚀 Muhammad Uzair Khan | Data Engineer | AI Engineer | Data Scientist
+# 🚀 Hi! I'm Muhammad Uzair Khan
+
+### Data Engineer | AI Engineer | Data Scientist
 
 ![Data Engineer](https://img.shields.io/badge/Data%20Engineer-Expert-blue?style=flat&logo=amazonaws) ![AI Engineer](https://img.shields.io/badge/AI%20Engineer-Expert-purple?style=flat&logo=python) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced-yellow?style=flat&logo=tensorflow)
 
