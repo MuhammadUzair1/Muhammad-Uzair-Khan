@@ -1,151 +1,90 @@
-<!DOCTYPE html>
-<html lang="en">
+# Hi, I'm Muhammad Uzair Khan! 👋🚀
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Muhammad Uzair Khan | Data Engineer & AI Expert</title>
-    <style>
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #1F1F1F;
-            color: #EAEAEA;
-            text-align: center;
-        }
+![Data Engineer | AI Engineer | Data Scientist](https://img.shields.io/badge/Data%20Engineer-Expert-blue?style=flat&logo=amazonaws)  ![AI Engineer](https://img.shields.io/badge/AI%20Engineer-Expert-purple?style=flat&logo=python)  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced-yellow?style=flat&logo=tensorflow)
 
-        .container {
-            max-width: 1000px;
-            margin: auto;
-            background: #2C2F33;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
-        }
+## 🔥 About Me
 
-        h1 {
-            color: #7289DA;
-        }
+I am a **Data Engineer, AI Engineer, and Data Scientist** passionate about **cloud computing, scalable data solutions, and AI-driven applications**. With hands-on experience in **AWS, Azure, Snowflake, Databricks, and AI/ML**, I build **robust data pipelines, real-time data streaming solutions, and AI-powered systems** that enhance efficiency and decision-making.
 
-        .badges img {
-            width: 50px;
-            margin: 5px;
-        }
+- 🎯 **Current Roles:**
+  - **AI Engineer** @ OctDaily 🏥 (Enhancing healthcare with AI-powered solutions)
+  - **Data Engineer Instructor** @ SMIT 🎓 (Training 150+ students in cloud data engineering)
 
-        .section {
-            text-align: left;
-            margin-top: 30px;
-            padding: 20px;
-            background: #3B3F45;
-            border-radius: 8px;
-        }
+- 🏆 **Achievements:**
+  - Implemented a **recommendation system** boosting user engagement by **25%**
+  - Developed an **AI-powered chatbot** improving user satisfaction by **20%**
+  - Engineered **optimized data pipelines** on Azure with a **30% performance boost**
+  - Runner-Up at **UBL Datathon 2022** 🏅 (Top 2 out of 300 teams!)
+  - **Mentored 150+ students** in AWS, Snowflake, and real-time data processing
 
-        .section-title {
-            font-size: 24px;
-            color: #7289DA;
-            margin-bottom: 15px;
-            border-bottom: 3px solid #7289DA;
-            padding-bottom: 5px;
-        }
+---
+## 🛠️ Tech Stack & Expertise
 
-        .contact a {
-            color: #7289DA;
-            text-decoration: none;
-            font-weight: bold;
-        }
-    </style>
-</head>
+### **🚀 Data Engineering & Cloud**
+![AWS](https://img.shields.io/badge/AWS-Expert-orange?style=for-the-badge&logo=amazonaws) ![Azure](https://img.shields.io/badge/Azure-Expert-blue?style=for-the-badge&logo=microsoftazure) ![Snowflake](https://img.shields.io/badge/Snowflake-Expert-lightblue?style=for-the-badge&logo=snowflake) ![Databricks](https://img.shields.io/badge/Databricks-Advanced-red?style=for-the-badge&logo=databricks) ![Apache Kafka](https://img.shields.io/badge/Kafka-Real--Time-black?style=for-the-badge&logo=apachekafka)  
 
-<body>
-    <div class="container">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7289DA&height=120&section=header"
-            alt="Header" />
+### **📊 Data Science & AI**
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-orange?style=for-the-badge&logo=tensorflow) ![NLP](https://img.shields.io/badge/NLP-Expert-green?style=for-the-badge&logo=spacy) ![Pandas](https://img.shields.io/badge/Pandas-Expert-darkblue?style=for-the-badge&logo=pandas)
 
-        <h1>👋 Hi, I'm Muhammad Uzair Khan!</h1>
-        <p>🚀 Data Engineer | AI Engineer | Machine Learning Enthusiast</p>
-        <img src="YOUR_PROFILE_IMAGE" alt="Muhammad Uzair Khan" width="180" style="border-radius: 50%;">
+### **💡 DevOps & Automation**
+![Docker](https://img.shields.io/badge/Docker-Intermediate-blue?style=for-the-badge&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Beginner-blue?style=for-the-badge&logo=kubernetes) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-Workflow--Automation-blue?style=for-the-badge&logo=apacheairflow)  
 
-        <div class="badges">
-            <img src="AWS_LOGO" alt="AWS">
-            <img src="AZURE_LOGO" alt="Azure">
-            <img src="SNOWFLAKE_LOGO" alt="Snowflake">
-            <img src="PYTHON_LOGO" alt="Python">
-            <img src="TENSORFLOW_LOGO" alt="TensorFlow">
-        </div>
+---
+## 🔥 Featured Projects
 
-        <div class="section">
-            <h2 class="section-title">🔥 About Me</h2>
-            <p>I am a passionate **Data Engineer, AI Engineer, and Data Scientist** with a deep interest in **cloud
-                computing, scalable data pipelines, and AI-driven analytics**. With hands-on experience in **AWS, Azure,
-                Snowflake, and Databricks**, I focus on building cutting-edge solutions that enhance data processing
-                efficiency and decision-making.</p>
-            <p>Currently, I work as:</p>
-            <ul>
-                <li>📌 **AI Engineer @ OctDaily** – Enhancing **healthcare solutions** with AI-powered applications.
-                </li>
-                <li>📌 **Data Engineer Instructor @ SMIT** – Training **150+ students** in cloud-based data engineering.
-                </li>
-            </ul>
-        </div>
+📌 **[AskSphere – AI Study Companion](https://github.com/MuhammadUzair1/AskSphere)**  
+🚀 AI-driven Q&A platform that enhances accessibility for **300+ educators**
+- 🔹 **RAG-based search mechanism** for instant retrieval
+- 🔹 **Deployed on AWS & Azure** for high availability
+- 🔹 **Boosted engagement by 30%** using NLP-based search
 
-        <div class="section">
-            <h2 class="section-title">🏆 Achievements</h2>
-            <ul>
-                <li>📌 Built an **AI chatbot** that improved user engagement by **20%**.</li>
-                <li>📌 Developed a **recommendation system** that boosted user engagement by **25%**.</li>
-                <li>📌 Optimized **Azure-based data pipelines**, improving performance by **30%**.</li>
-                <li>🏅 **Runner-up at UBL Datathon 2022** (Top 2 out of **300 teams!**).</li>
-                <li>🎓 Mentored **150+ students** in AWS, Snowflake, and real-time data processing.</li>
-            </ul>
-        </div>
+📌 **[Olympics Data Analysis](https://github.com/MuhammadUzair1/Olympics-Data-Analysis)**
+📊 Designed an **ETL pipeline** for historical Olympics data insights
+- 🔹 **Azure Data Factory & Databricks** for processing
+- 🔹 **Synapse Analytics** for in-depth data visualization
+- 🔹 **Optimized queries & data flow for efficiency**
 
-        <div class="section">
-            <h2 class="section-title">🚀 Tech Stack & Expertise</h2>
-            <ul>
-                <li><strong>Cloud & Data Engineering:</strong> AWS, Azure, Snowflake, Databricks, Kafka</li>
-                <li><strong>AI & Machine Learning:</strong> Python, TensorFlow, NLP, Pandas, PyTorch</li>
-                <li><strong>DevOps & Automation:</strong> Docker, Kubernetes, Apache Airflow</li>
-            </ul>
-        </div>
+📌 **[Covid-19 Data Warehouse](https://github.com/MuhammadUzair1/Covid19-Data-Warehouse)**
+🦠 Created an **AWS-based data warehouse** for real-time pandemic insights
+- 🔹 **S3 + Glue + Redshift** for scalable storage & querying
+- 🔹 **Integrated ETL workflows** using Apache Airflow
+- 🔹 **Real-time analytics using Athena & QuickSight**
 
-        <div class="section">
-            <h2 class="section-title">🔥 Featured Projects</h2>
-            <ul>
-                <li>📌 **AskSphere – AI Study Companion**: AI-driven platform for **300+ educators** with NLP-based
-                    search.</li>
-                <li>📌 **Olympics Data Analysis**: Advanced **ETL pipeline** and Azure Data Factory integration.</li>
-                <li>📌 **Covid-19 Data Warehouse**: Real-time AWS-based data storage & analytics solution.</li>
-            </ul>
-        </div>
+---
+## 💼 Work Experience
 
-        <div class="section">
-            <h2 class="section-title">💼 Work Experience</h2>
-            <ul>
-                <li><strong>AI Engineer | OctDaily</strong> - Architecting **AI-powered healthcare solutions**.</li>
-                <li><strong>Data Engineer Instructor | SMIT</strong> - Teaching **AWS Data Engineering** concepts.</li>
-                <li><strong>Data Scientist | Create Impact</strong> - Developed **ML-powered recommendation systems**.
-                </li>
-            </ul>
-        </div>
+💻 **AI Engineer | OctDaily** _(May 2024 - Present)_  
+🔹 Architecting AI-powered **healthcare solutions** using **RAG + Pinecone + Llama**
+🔹 Developing **chatbot-based support systems**, increasing engagement by **20%**
+🔹 **Optimized data pipelines on Azure**, reducing query times by **30%**
 
-        <div class="section">
-            <h2 class="section-title">🎓 Certifications & Achievements</h2>
-            <ul>
-                <li>📜 IBM Data Science & Data Engineering Certification</li>
-                <li>📜 NLP Specialization – DeepLearning.AI</li>
-                <li>🏅 Runner-Up at **UBL Datathon 2022** (Top 2 out of 300 Teams!)</li>
-            </ul>
-        </div>
+💻 **Data Engineer Instructor | SMIT** _(April 2024 - Present)_  
+🔹 **Trained 150+ students** on **AWS Data Engineering** (S3, Glue, Redshift, Snowflake)  
+🔹 Designed **real-time streaming projects** using Kafka & Airflow  
+🔹 Mentored students on **10+ cloud-based projects**
 
-        <div class="section contact">
-            <h2 class="section-title">📫 Connect with Me</h2>
-            <p><a href="https://github.com/MuhammadUzair1">GitHub</a> | <a
-                    href="https://www.linkedin.com/in/muhammaduzairkhan1/">LinkedIn</a> | <a
-                    href="mailto:muhammaduzairkhan329@gmail.com">Email</a></p>
-        </div>
+💻 **Data Scientist | Create Impact** _(Aug 2022 – Jan 2024)_  
+🔹 **Developed ML-powered recommendation systems**, increasing engagement by **25%**  
+🔹 Automated **ETL pipelines** with **AWS Lambda & Glue**, reducing processing time by **35%**
 
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7289DA&height=120&section=footer"
-            alt="Footer" />
-    </div>
-</body>
+---
+## 🏆 Certifications & Achievements
 
-</html>
+📜 **IBM Data Science Certification**  
+📜 **IBM Data Engineering Certification**  
+📜 **Advanced SQL – 365DataScience**  
+📜 **NLP Specialization – DeepLearning.AI**  
+📜 **AWS Data Warehousing Workshop**  
+📜 **Runner-Up at UBL Datathon 2022 (2nd out of 300 Teams!)**
+
+---
+## 📫 Connect with Me
+
+🌐 **Portfolio**: [uzairkhan.dev](#) *(Coming Soon!)*  
+🔗 **LinkedIn**: [Muhammad Uzair Khan](https://www.linkedin.com/in/muhammaduzairkhan1/)  
+📂 **GitHub**: [MuhammadUzair1](https://github.com/MuhammadUzair1/)  
+📊 **Kaggle**: [Uzair Khan](https://www.kaggle.com/uzair01)  
+📩 **Email**: muhammaduzairkhan329@gmail.com  
+
+💬 **Let’s collaborate on exciting projects!** 🚀
+
